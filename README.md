@@ -30,9 +30,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" height="30" alt="css3-logo"  />
   <img width="12" />
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap-logo"  />
-  <img width="12" />
-  
 </div>
 
 
